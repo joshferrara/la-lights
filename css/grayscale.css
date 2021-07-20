@@ -260,8 +260,8 @@ iframe {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000000;
+    background: url(../img/music-bg.jpg) no-repeat center center scroll;
+    background-color: #808080;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
