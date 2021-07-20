@@ -1,3 +1,1 @@
-Branch for demo purposes only. 
-
-Do not use for your projects
+A one-pager for the band I was in 15 years ago. Nothing to see here.
