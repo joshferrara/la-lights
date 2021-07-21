@@ -266,7 +266,14 @@ iframe {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-attachment: fixed;
 }
+    .download-section .container {
+        background: rgba(0, 0, 0, 0.2);
+        margin-top: -100px;
+        padding-top: 100px;
+    }
+
 
 #map {
     width: 100%;
