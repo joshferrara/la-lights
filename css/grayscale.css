@@ -269,9 +269,11 @@ iframe {
     background-attachment: fixed;
 }
     .download-section .container {
-        background: rgba(0, 0, 0, 0.2);
+        background: rgba(0, 0, 0, 0.3);
         margin-top: -100px;
         padding-top: 100px;
+        margin-bottom: -100px;
+        padding-bottom: 100px;
     }
 
 
